@@ -8,9 +8,9 @@
   <a href="https://instagram.com/carlossantosdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/7h4QC4MA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   -->
-  <a href="https://linkedin.com/in/carlossantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://linkedin.com/in/carlossantosdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="mailto:carlos.santos.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://pinkary/@carlossantosdev/" target="_blank"><img src="https://img.shields.io/badge/-Pinkary-%23E4405F?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a>  
+  <a href="https://pinkary.com/@carlossantosdev" target="_blank"><img src="https://img.shields.io/badge/-Pinkary-%23E4405F?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a>  
   <a href="https://x.com/carlossantosdev" target="_blank"><img src="https://img.shields.io/badge/-X-%23333?style=for-the-badge&logo=x&logoColor=white"></a>
 </div>
 
