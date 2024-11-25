@@ -28,7 +28,8 @@
   <img align="center" alt="NuxtJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
- 
+
+<!--
 <br/>
     
 <div align="center">
@@ -40,7 +41,6 @@
 <br/>
 <br/>
 
-<!--
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -50,17 +50,13 @@
 </div>
 
 <br/>
--->
 
-<!--
 <div align="center">
    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=carlossantosdev&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <br/>
--->
 
-<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carlossantosdev&margin-w=10&margin-h=10&theme=gotham&column=4&no-bg=true&rank=SECRET,SSS,SS,S,A,B">
 </div>
